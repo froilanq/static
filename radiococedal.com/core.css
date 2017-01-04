@@ -1,0 +1,20 @@
+.header h1.title{
+   padding: 16px 0;
+color: #fff;
+}
+#intro .bg1 {
+    background: #000 url(http://4.bp.blogspot.com/-bVPoVE3Sp4k/VxpFL47ctrI/AAAAAAAAB3g/-7TOMJ0a5OMj32iT8CeAZpmbt4LUXeg8wCK4B/s1600-r/banner-940.jpg) no-repeat center center !important;
+  }
+  .top-menu .menubar{
+display: none;
+}
+/*MOBILE CSS*/
+@media (max-width: 767px){
+    #intro, #intro .bg1{
+height: 240px;
+    }
+  }
+
+@media (max-width: 414px){
+
+  }
