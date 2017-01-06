@@ -2,8 +2,12 @@
    padding: 16px 0;
 color: #fff;
 }
+#header-inner{
+display:none;
+}
 #intro .bg1 {
-    background: #000 url(http://2.bp.blogspot.com/-T8vMUTEBWII/WHAW5I6jxFI/AAAAAAAACfk/t3Ib-Dz51m8aaH4bXQP6Pj9NSAvd8G0eQCK4B/s1600/banner-940.jpg) no-repeat center center !important;
+    background: #000 url(http://4.bp.blogspot.com/-j-JCjfzrTEM/WHAYk4g6sZI/AAAAAAAACf8/GmN94y6WjfA8M7HT3qvv2cHPCKBe5cDawCK4B/s1600/banner-940.jpg) no-repeat center center !important;
+   background-size: auto 100% !important;
   }
   .top-menu .menubar{
 display: none;
